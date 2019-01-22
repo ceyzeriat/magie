@@ -1,0 +1,2 @@
+- finish README
+- test dummy package, and tests, and coverage, and documentation
